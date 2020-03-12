@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {:car_brand => 
+  {:car_brand => "Subaru", :car_model => "STi"}
 end
 
 def pioneer
